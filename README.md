@@ -21,6 +21,8 @@
 
 ### Our job is to build a model that will predict the price of a house based on features provided in the dataset. Senior management also wants to explore the characteristics of the houses using some business intelligence tools. One of those parameters includes understanding which factors are responsible for higher property value of $650K and above.
 
+## We used Python to build the required Model. To explore our Python Notebook, follow this [link](Python/mid_bcamp_proRegression.ipynb)
+
 ## First Approach
 
 ### The dataset consists of information on 22,000 properties and include historic data of houses sold between May 2014 to May 2015. We will initially:
