@@ -1,4 +1,5 @@
 
+![Real Estate Image](images/RealEstate.png "Real Estate Case Study - Regression")
 # Real Estate Case Study - Regression
 
 ## Index:
