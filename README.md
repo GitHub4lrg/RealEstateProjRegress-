@@ -55,7 +55,7 @@
 
 ## SQL
 
-### We used MySQL Workbench to complete some deliverables and run the queries requested and get a better understanding of our data frame. To find our queries, follow the [link](https://www.example.com).
+### We used MySQL Workbench to complete some deliverables and run the queries requested and get a better understanding of our data frame. To find our queries, follow the [link](SQL/Mid_bootCampProRegression.sql).
 
 ## Presentation
 
