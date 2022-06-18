@@ -62,4 +62,4 @@
 
 ## Presentation
 
-### We used Slides to make our presentation with the simplest and visually appealing. To view our presentation, follow the [link](https://www.example.com).
+### We used Story in Tableau to make our presentation with the simplest and visually appealing. To view our presentation, follow the [link](https://public.tableau.com/shared/64KMQDTSJ?:display_count=n&:origin=viz_share_link).
