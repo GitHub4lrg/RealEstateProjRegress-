@@ -54,8 +54,8 @@
  
 ## Tableau
 
-### We have some deliverables for visualization in Tableau, so we will present our findings in a simple way to understand. To view our presentation, follow the [link]
-(https://public.tableau.com/shared/JR9KF24FW?:display_count=n&:origin=viz_share_link) 
+### We have some deliverables for visualization in Tableau, so we will present our findings in a simple way to understand. To view our presentation, follow the [link](https://public.tableau.com/shared/JR9KF24FW?:display_count=n&:origin=viz_share_link) 
+
 ## SQL
 
 ### We used MySQL Workbench to complete some deliverables and run the queries requested and get a better understanding of our data frame. To find our queries, follow the [link](SQL/Mid_bootCampProRegression.sql).
