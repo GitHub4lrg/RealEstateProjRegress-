@@ -62,4 +62,4 @@
 
 ## Presentation
 
-### We used Story in Tableau to make our presentation with the simplest and visually appealing. To view our presentation, follow the [link](https://public.tableau.com/shared/96DC7TQC6?:display_count=n&:origin=viz_share_link)
+### We used Story in Tableau to make our presentation with the simplest and visually appealing. To view our presentation, follow the [link](https://public.tableau.com/views/RealEstate-ProjRegress/RealEstateKingCountyAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
