@@ -54,7 +54,7 @@
  
 ## Tableau
 
-### We have some deliverables for visualization in Tableau, so we will present our findings in a simple way to understand. To view our presentation, follow the [link](https://public.tableau.com/shared/JR9KF24FW?:display_count=n&:origin=viz_share_link) 
+### We have some deliverables for visualization in Tableau, so we will present our findings in a simple way to understand. To view our presentation, follow the [link](https://public.tableau.com/views/RealEstate-ProjRegress/RealEstateKingCountyAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## SQL
 
